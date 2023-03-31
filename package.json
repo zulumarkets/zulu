@@ -8,6 +8,7 @@
         "@google-cloud/translate": "^6.3.0",
         "@material-ui/core": "^4.11.3",
         "@metamask/detect-provider": "^1.2.0",
+        "@portis/web3": "^4.0.7",
         "@rainbow-me/rainbowkit": "^0.6.2",
         "@reduxjs/toolkit": "^1.7.2",
         "@socket.tech/plugin": "^1.0.4",
@@ -49,7 +50,7 @@
         "thales-data": "^1.2.32",
         "typescript": "^4.2.2",
         "wagmi": "^0.6.4",
-        "web3": "^1.7.4"
+        "web3": "^1.9.0"
     },
     "devDependencies": {
         "@types/hammerjs": "^2.0.41",
